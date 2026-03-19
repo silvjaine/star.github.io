@@ -1,5 +1,3 @@
-script.js
-
 // Seleciona o botão pelo id
 const botao = document.getElementById("botao");
 
